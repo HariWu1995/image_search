@@ -1,0 +1,9 @@
+# Dev requirements
+
+-e .
+
+gunicorn
+flask
+flask_cors
+
+pylint
