@@ -1,0 +1,6 @@
+multimodal_embedding: openai/clip-vit-base-patch32
+# multimodal_embedding: artefacts/CLIP
+database: 
+  path: database/images
+  traverse: true
+

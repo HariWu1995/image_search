@@ -1,0 +1,4 @@
+*.pyc
+*/pycache/*
+artefacts/CLIP/*
+database/*.pkl

@@ -1,0 +1,19 @@
+SERVER:
+  host: 0.0.0.0
+  port: 8080
+  log_level: info
+  workers: 
+
+DESCRIPTION:
+  title: Image-Search APIs
+  overview: Image-Search APIs help you search similar images in database from image or text query
+
+PARAMETERS:
+  input_type: Input type ('image', 'text') for model to predict
+  content: "Input text or image"
+  storage: Location to save result ('local', 'dataspire')
+  top_k: "Number of results to return.\nDefault = 5"
+
+TAGS:
+  - name: Image Search by Text / Image
+    description: Image Search by Text / Image

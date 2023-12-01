@@ -1,9 +1,0 @@
-image_dir_path: "C:/Users/Hari Who/Documents/__Projects__/ImageSearcher/images"
-save_path: "C:/Users/Hari Who/Documents/__Projects__/ImageSearcher/outputs"
-traverse: true
-n: 7
-
-port: 
-host: 
-debug:
-threaded:
